@@ -40,7 +40,6 @@ flask-restx==1.1.0
 folium==0.13.0
 fonttools==4.39.3
 fqdn==1.5.1
-GDAL==3.6.4
 gdown==4.7.1
 geojson==3.0.1
 gitdb==4.0.10
